@@ -3,7 +3,6 @@ package roulette;
 import java.util.LinkedList;
 
 import roulette.bin.BinBuilder;
-import roulette.game.RouletteGame;
 import roulette.player.Martingale;
 import roulette.player.SevenReds;
 import roulette.simulator.Simulator;

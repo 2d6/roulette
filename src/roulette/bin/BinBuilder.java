@@ -2,8 +2,6 @@ package roulette.bin;
 
 import java.util.Arrays;
 import java.util.HashMap;
-import java.util.Map;
-
 import roulette.outcome.Outcome;
 import roulette.outcome.RouletteOutcome;
 import roulette.wheel.Wheel;
